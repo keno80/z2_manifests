@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="davidevinavil" fetch="https://github.com/davidevinavil/" revision="n7x-caf"/>
+
+<project name="davidevinavil/android_device_zuk_z2_plus" path="device/zuk/z2_plus" remote="github"  revision="n7x-caf" />
+<project name="davidevinavil/android_vendor_zuk_z2_plus" path="vendor/zuk/z2_plus" remote="github"  revision="n7x-caf" />
+<project name="davidevinavil/android_kernel_zuk_z2_plus" path="kernel/zuk/msm8996" remote="github" revision="n7x-caf-rebase" />
+<project name="davidevinavil/android_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="n7x-caf" />
+
+
+</manifest>
